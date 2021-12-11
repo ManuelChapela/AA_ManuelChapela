@@ -1,0 +1,28 @@
+.access__container{
+    margin-top: 8rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .top{
+        text-align: center;
+        h1{
+            padding-bottom: 1rem;
+        }
+    }
+    .form{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 1rem;
+        .formularioComponent{
+            .campo{
+
+                display: flex;
+                flex-direction: column;
+                width: 20rem;
+                align-items: center;
+            }
+        }
+    }
+}
