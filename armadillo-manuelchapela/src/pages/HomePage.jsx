@@ -4,7 +4,7 @@ const HomePage = () => {
     return (
         <div className='register__container'>
             <h1>ESTÁS REGISTRADO</h1>
-            <h2>¿Quieres volver a la página inicial? Haz clic <Link to='/'>aquí</Link></h2>
+            <h2>¿Quieres volver a la página inicial? Haz clic <Link to='/signin'>aquí</Link></h2>
         </div>
     )
 }

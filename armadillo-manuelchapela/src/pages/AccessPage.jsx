@@ -60,7 +60,7 @@ const AccessPage = () => {
                 <button type="submit">ACCEDER</button>
             </form>
 
-           <h3>¿No tienes cuenta? Haz clic aquí para <Link to='/'>registrarte</Link></h3>
+           <h3>¿No tienes cuenta? Haz clic aquí para <Link to='/signin'>registrarte</Link></h3>
         </div>
     )
 }
